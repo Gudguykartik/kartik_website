@@ -1,4 +1,4 @@
-import { ProjectProps } from "./ProjectCard";
+import { ProjectProps } from "../_components/ProjectCard"; // Adjust the import path as necessary
 
 export const techCardsItems = [
   {
@@ -183,6 +183,7 @@ export const techCardsItems = [
 ];
 
 export const portfolioProjects: ProjectProps[] = [
+
   {
     id: "1",
     projectName: "bike-rental",
@@ -213,6 +214,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Picking the Best Games: Clustering Video Game Sales Data with K-Means.",
     imageUrl: "/imgs/projects/game.jpg",
     techStack: ["Python", "K-Means Clustering", "Data Analysis"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/Kmeans-Picking-best-computer-game-to-try",
   },
   {
@@ -223,6 +225,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Classifying Digits with Precision: A 2-Layer MLP on MNIST Using Mini-Batch",
     imageUrl: "/imgs/projects/digit.webp",
     techStack: ["Python", "Neural Networks", "Machine Learning"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/MLP-MNIST-Python",
   },
   {
@@ -233,6 +236,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Visualizing Success: A Power BI Dashboard for Comprehensive Sales Analysis and Performance Tracking",
     imageUrl: "/imgs/projects/sales.jpg",
     techStack: ["Power BI", "SQL", "Data Visualization"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/-SalesAnalysis-Powebi-And-SQL",
   },
   {
@@ -243,6 +247,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Boosting Conversions: Predicting Personal Loan Acceptance with Optimized Logistic Regression.",
     imageUrl: "/imgs/projects/dataset-cover.jpg",
     techStack: ["Python", "Logistic Regression", "Machine Learning"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/Loan-prediction-and-optimization",
   },
   {
@@ -253,6 +258,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Self-Playing Super Mario: Training an Autonomous Agent with Reinforcement Learning",
     imageUrl: "/imgs/projects/mario.webp",
     techStack: ["Python", "Reinforcement Learning", "AI"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/Super-Mario-RL",
   },
   {
@@ -263,6 +269,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Flappy Bird on Autopilot: Building and Training an AI Agent with NEAT in Pygame.",
     imageUrl: "/imgs/projects/falppybird.jpg",
     techStack: ["Python", "NEAT", "Pygame"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/Flappy-Bird-Reinforcement-Learning",
   },
   {
@@ -273,6 +280,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Forecasting Aircraft Engine Health: Implementing Predictive Maintenance for Failure Prediction and Remaining Useful Life Estimation.",
     imageUrl: "/imgs/projects/airplane.jpeg",
     techStack: ["Python", "Machine Learning", "Predictive Analytics"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/-Predictive-Maintenance-of-Aircraft-Engine",
   },
   {
@@ -283,6 +291,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Tweet Classification using Natural Language Processing and Machine Learning",
     imageUrl: "/imgs/projects/post-a-job-on-twitter-verified-organizations-64b8531a90397-sej.webp",
     techStack: ["Python", "NLP", "Machine Learning"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/Tweet_Classification",
   },
   {
@@ -293,6 +302,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Instacart Market Basket Analysis for Understanding Customer Purchase Patterns",
     imageUrl: "/imgs/projects/Punnets+43.jpg",
     techStack: ["Python", "Data Analysis", "Market Research"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/instacart_orders",
   },
   {
@@ -303,6 +313,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Movie Recommendation System Using Content-Based Filtering",
     imageUrl: "/imgs/projects/netflix.png",
     techStack: ["Python", "Recommendation Systems", "Machine Learning"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/Gudguykartik-Movie_recommendation_system-PYTHON",
   },
   {
@@ -313,6 +324,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Unsupervised Learning: Creating Customer Segments",
     imageUrl: "/imgs/projects/customersegement.png",
     techStack: ["Python", "Clustering", "Customer Analytics"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/customer_segementation",
   },
   {
@@ -323,6 +335,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Advanced Lane Detection System For Self Driving Cars",
     imageUrl: "/imgs/projects/cover-photo-lane-detection.jpg",
     techStack: ["Python", "Computer Vision", "OpenCV"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/Advance_Lane_Detection",
   },
   {
@@ -333,6 +346,7 @@ export const portfolioProjects: ProjectProps[] = [
     description: "Fashion Recommendation System Using Machine Learning",
     imageUrl: "/imgs/projects/fashion.jpeg",
     techStack: ["Python", "Machine Learning", "Computer Vision"],
+    liveDemoUrl: "https://colab.research.google.com/drive/your-titanic-notebook",
     sourceCodeUrl: "https://github.com/Gudguykartik/Fashion_recommendation",
   },
   {
