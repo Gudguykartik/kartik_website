@@ -182,6 +182,7 @@ export const techCardsItems = [
 
 export const portfolioProjects = [
   {
+    id: "1",
     projectName: "bike-rental",
     heading: "Bike Rental Prediction",
     subheading: "Neural Networks for Daily Ridership",
@@ -192,6 +193,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Bike-rental-prediction",
   },
   {
+    id: "2",
     projectName: "titanic",
     heading: "Titanic Survival Prediction",
     subheading: "Data Analysis of Historic Disaster",
@@ -202,6 +204,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Titanic-Disaster-survivor-prediction",
   },
   {
+    id: "3",
     projectName: "game-analysis",
     heading: "Video Game Analysis",
     subheading: "K-Means Clustering for Game Sales",
@@ -211,6 +214,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Kmeans-Picking-best-computer-game-to-try",
   },
   {
+    id: "4",
     projectName: "mnist",
     heading: "MNIST Digit Classification",
     subheading: "2-Layer MLP Implementation",
@@ -220,6 +224,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/MLP-MNIST-Python",
   },
   {
+    id: "5",
     projectName: "sales-analysis",
     heading: "Sales Analysis Dashboard",
     subheading: "Power BI Visualization",
@@ -229,6 +234,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/-SalesAnalysis-Powebi-And-SQL",
   },
   {
+    id: "6",
     projectName: "loan-prediction",
     heading: "Loan Acceptance Prediction",
     subheading: "Optimized Logistic Regression",
@@ -238,6 +244,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Loan-prediction-and-optimization",
   },
   {
+    id: "7",
     projectName: "super-mario",
     heading: "Self-Playing Super Mario",
     subheading: "Reinforcement Learning Agent",
@@ -247,6 +254,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Super-Mario-RL",
   },
   {
+    id: "8",
     projectName: "flappy-bird",
     heading: "AI Flappy Bird",
     subheading: "NEAT Algorithm Implementation",
@@ -256,6 +264,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Flappy-Bird-Reinforcement-Learning",
   },
   {
+    id: "9",
     projectName: "aircraft-maintenance",
     heading: "Aircraft Engine Health",
     subheading: "Predictive Maintenance System",
@@ -265,6 +274,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/-Predictive-Maintenance-of-Aircraft-Engine",
   },
   {
+    id: "10",
     projectName: "tweet-classification",
     heading: "Tweet Classification",
     subheading: "Natural Language Processing",
@@ -274,6 +284,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Tweet_Classification",
   },
   {
+    id: "11",
     projectName: "market-basket",
     heading: "Market Basket Analysis",
     subheading: "Instacart Data Analysis",
@@ -283,6 +294,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/instacart_orders",
   },
   {
+    id: "12",
     projectName: "movie-recommendation",
     heading: "Movie Recommendation",
     subheading: "Content-Based System",
@@ -292,6 +304,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Gudguykartik-Movie_recommendation_system-PYTHON",
   },
   {
+    id: "13",
     projectName: "customer-segments",
     heading: "Customer Segmentation",
     subheading: "Unsupervised Learning",
@@ -301,6 +314,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/customer_segementation",
   },
   {
+    id: "14",
     projectName: "lane-detection",
     heading: "Lane Detection System",
     subheading: "Computer Vision for Self-Driving",
@@ -310,6 +324,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Advance_Lane_Detection",
   },
   {
+    id: "15",
     projectName: "fashion-recommendation",
     heading: "Fashion Recommendation",
     subheading: "AI-Powered Style Suggestions",
@@ -319,6 +334,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/Gudguykartik/Fashion_recommendation",
   },
   {
+    id: "16",
     projectName: "mathmind-ai",
     heading: "MathMind AI",
     subheading: "Intelligent Mathematics Problem Solver",
@@ -329,6 +345,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/kartikrana/mathmind-ai"
   },
   {
+    id: "17",
     projectName: "stylesage-ai",
     heading: "StyleSage AI",
     subheading: "AI-Powered Fashion Platform",
@@ -339,6 +356,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/kartikrana/stylesage-ai"
   },
   {
+    id: "18",
     projectName: "aiducate",
     heading: "Aiducate",
     subheading: "AI-Enhanced Learning Platform",
@@ -349,6 +367,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/kartikrana/aiducate"
   },
   {
+    id: "19",
     projectName: "melodymind",
     heading: "MelodyMind",
     subheading: "AI Music Recommendation Platform",
@@ -359,6 +378,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/kartikrana/melodymind"
   },
   {
+    id: "20",
     projectName: "sentimentscope",
     heading: "SentimentScope",
     subheading: "Advanced Text Analysis Platform",
@@ -369,6 +389,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/kartikrana/sentimentscope"
   },
   {
+    id: "21",
     projectName: "dataviz-pro",
     heading: "DataViz Pro",
     subheading: "Interactive Data Visualization",
@@ -379,6 +400,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/kartikrana/dataviz-pro"
   },
   {
+    id: "22",
     projectName: "stocksense-ai",
     heading: "StockSense AI",
     subheading: "Intelligent Stock Analysis",
@@ -389,6 +411,7 @@ export const portfolioProjects = [
     sourceCodeUrl: "https://github.com/kartikrana/stocksense-ai"
   },
   {
+    id: "23",
     projectName: "healthtrack-ai",
     heading: "HealthTrack AI",
     subheading: "Personal Health Analytics",
