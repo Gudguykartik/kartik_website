@@ -1,3 +1,5 @@
+import { ProjectProps } from "./ProjectCard";
+
 export const techCardsItems = [
   {
     name: "Figma",
@@ -180,7 +182,7 @@ export const techCardsItems = [
   },
 ];
 
-export const portfolioProjects = [
+export const portfolioProjects: ProjectProps[] = [
   {
     id: "1",
     projectName: "bike-rental",
