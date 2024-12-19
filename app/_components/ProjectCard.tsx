@@ -7,7 +7,7 @@ import ProjectTechnologiesMini from "./ProjectTechnologiesMini";
 
 import { motion } from "framer-motion";
 
-interface ProjectProps {
+export interface ProjectProps {
   id: string;
   projectName: string;
   heading: string;
