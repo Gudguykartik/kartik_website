@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useState } from "react";
 import { portfolioProjects } from "../_lib/constants";
 import ProjectCard from "./ProjectCard";
+import { ProjectProps } from "./ProjectCard";
 import ShinyButton from "./ui/ShinyButton";
 import { ChevronRight, ChevronDown } from "lucide-react";
 
