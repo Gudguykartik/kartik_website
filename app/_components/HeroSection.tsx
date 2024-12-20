@@ -19,19 +19,18 @@ const HeroSection = () => {
       >
         <div className="flex flex-col justify-center items-center relative z-10 text-center">
           <p className="uppercase font-bold text-sm tracking-widest">
-            Based In Serbia
+            Based In India
           </p>
           {/* <h1 className="text-[40px] md:text-6xl lg:text-7xl font-bold text-center max-w-5xl leading-tight tracking-wide">
             Quality Design &{" "}
             <span className="text-primary">Web Development</span> Synergy
           </h1> */}
           <TextGenerateEffect
-            words="Quality Design & Web Development Synergy"
+            words="Data Whisperer, Algorithm Tamer & Insight Alchemist"
             className="text-[40px] md:text-6xl lg:text-7xl font-bold text-center max-w-5xl leading-snug tracking-wide"
           />
           <p className="pt-5 pb-8 text-sm sm:text-base md:text-lg text-dark-200 dark:text-stone-200/70">
-            Hi, I&apos;m Andrija, I create intuitive, visually stunning and
-            highly functional web applications.
+            Hi, I&apos;m Kartik, I crunch numbers and craft stories from data, finding joy in every correlation and outlier.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
             <ShinyButton icon={<ChevronRight />}>
