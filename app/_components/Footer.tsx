@@ -57,26 +57,26 @@ const Footer = () => {
               <li className="text-lg font-semibold">Projects</li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link
-                  href="https://github.com/andrijaweb/ecommerce-app"
+                  href="https://github.com/Gudguykartik/DeepStyle"
                   target="_blank"
                 >
-                  Shoptidy
+                  DeepStyle
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link
-                  href="https://github.com/andrijaweb/socialmedia-reactapp"
+                  href="https://github.com/Gudguykartik/MathMind"
                   target="_blank"
                 >
-                  SocialSphere
+                  MathMind
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link
-                  href="https://github.com/andrijaweb/nextCut-app"
+                  href="https://github.com/Gudguykartik/AIducate"
                   target="_blank"
                 >
-                  NextCut
+                  Aiducate
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
@@ -88,14 +88,14 @@ const Footer = () => {
               <li className="text-lg font-semibold">Socials</li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
                 <Link
-                  href="https://www.linkedin.com/in/andrija-djordjevic-a7b794282/"
+                  href="www.linkedin.com/in/kartikrana21"
                   target="_blank"
                 >
                   LinkedIn
                 </Link>
               </li>
               <li className="text-dark-200/60 hover:text-dark-200 dark:text-white/50 dark:hover:text-white">
-                <Link href="https://github.com/andrijaweb" target="_blank">
+                <Link href="https://github.com/Gudguykartik" target="_blank">
                   Github
                 </Link>
               </li>
