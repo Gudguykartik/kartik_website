@@ -44,6 +44,12 @@ const ExperienceSection = () => {
   const experiences = {
     work: [
       {
+        title: "Data Analyst",
+        place: "EgniTech",
+        duration: "2023 - 2024",
+        tags: ["Data Analysis", "Machine Learning", "Data Science"]
+      },
+      {
         title: "Machine Learning Engineer",
         place: "Feynn Labs",
         duration: "2023 - Present",
